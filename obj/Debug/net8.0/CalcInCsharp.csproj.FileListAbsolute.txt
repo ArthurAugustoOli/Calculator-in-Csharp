@@ -1,0 +1,14 @@
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.AssemblyInfoInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.AssemblyInfo.cs
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.csproj.CoreCompileInputs.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\bin\Debug\net8.0\CalcInCsharp.exe
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\bin\Debug\net8.0\CalcInCsharp.deps.json
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\bin\Debug\net8.0\CalcInCsharp.runtimeconfig.json
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\bin\Debug\net8.0\CalcInCsharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\bin\Debug\net8.0\CalcInCsharp.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\refint\CalcInCsharp.dll
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.pdb
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\CalcInCsharp.genruntimeconfig.cache
+C:\Users\arthu\OneDrive\Área de Trabalho\CURSOS\C#\Atividades\CalcInCsharp\obj\Debug\net8.0\ref\CalcInCsharp.dll
